@@ -4,3 +4,12 @@ Accuracy
 F1
 Precision 
 Recall
+
+calculate_results
+
+Data Augmentation is a form of feature engineering - Looking at the same image but from different perspectives : Original, Rotate, Zoom, Shift, Cropping, Shearing, Replacing  
+
+Abstact : Background - Methods - Results - Conclusions
+
+Neural Networks with regression 
+Neural Networks with classification
