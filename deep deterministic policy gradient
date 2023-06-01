@@ -13,7 +13,7 @@ a^*(s) = \arg \max_a Q^*(s,a).
 
 Note: there may be multiple actions which maximize Q^*(s,a), in which case, all of them are optimal, 
 and the optimal policy may randomly select any of them. But there is always an optimal policy which deterministically selects an action.
-ellman Equations All four of the value functions obey special self-consistency equations called Bellman equations. 
+Bellman Equations All four of the value functions obey special self-consistency equations called Bellman equations. 
 
 The basic idea behind the Bellman equations is this:
 
